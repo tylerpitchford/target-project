@@ -136,9 +136,9 @@ ok  	target-project	0.006s
 
 Binary releases are available for 64-bit windows, osx, and linux operating systems:
 
- * [Windows](https://github.com/tylerpitchford/target-project/releases/download/v1/target-windows-amd64.exe)
- * [OSX](https://github.com/tylerpitchford/target-project/releases/download/v1/target-darwin-amd64)
- * [Linux](https://github.com/tylerpitchford/target-project/releases/download/v1/target-linux-amd64)
+ * [Windows](https://github.com/tylerpitchford/target-project/releases/download/v0.0.1/target-windows-amd64.exe)
+ * [OSX](https://github.com/tylerpitchford/target-project/releases/download/v0.0.1/target-darwin-amd64)
+ * [Linux](https://github.com/tylerpitchford/target-project/releases/download/v0.0.1/target-linux-amd64)
 
 Instructions on building or running your own instances in Docker are below.
 
